@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Studies/gpt-sciences-040523/static/css/main.8178cbeb.css",
-    "main.js": "/OATutor-Studies/gpt-sciences-040523/static/js/main.e1457527.js",
+    "main.js": "/OATutor-Studies/gpt-sciences-040523/static/js/main.493e058d.js",
     "static/media/Symbola.svg": "/OATutor-Studies/gpt-sciences-040523/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Studies/gpt-sciences-040523/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Studies/gpt-sciences-040523/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Studies/gpt-sciences-040523/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Studies/gpt-sciences-040523/index.html",
     "main.8178cbeb.css.map": "/OATutor-Studies/gpt-sciences-040523/static/css/main.8178cbeb.css.map",
-    "main.e1457527.js.map": "/OATutor-Studies/gpt-sciences-040523/static/js/main.e1457527.js.map"
+    "main.493e058d.js.map": "/OATutor-Studies/gpt-sciences-040523/static/js/main.493e058d.js.map"
   },
   "entrypoints": [
     "static/css/main.8178cbeb.css",
-    "static/js/main.e1457527.js"
+    "static/js/main.493e058d.js"
   ]
 }
